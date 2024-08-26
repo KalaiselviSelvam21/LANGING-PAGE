@@ -17,5 +17,4 @@ Contact Form: Allows users to get in touch for inquiries, feedback, or reservati
 **JavaScript (for interactive features)**
 **Bootstrap (optional, if used for additional styling or layout)**
 **Getting Started**
-\lease open an issue or create a pull request.
 
